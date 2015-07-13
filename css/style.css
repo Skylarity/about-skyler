@@ -9,6 +9,17 @@
 	font-family: sans-serif;
 }
 
+a {
+	background: #FFFFFF;
+
+	color: #508CFF;
+	text-decoration: underline;
+}
+a:hover {
+	background: #EEEEEE;
+	border-radius: 2px;
+}
+
 img {
 	display: block;
 
