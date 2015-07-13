@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+
+	background: #508CFF;
+
+	color: #FFFFFF;
+
+	font-family: sans-serif;
+}
+
+img {
+	display: block;
+
+	margin: auto;
+
+	width: 200px;
+	height: 200px;
+}
+
+h1 {
+	margin: auto;
+	padding: 10px;
+
+	width: 100%;
+
+	text-align: center;
+	font-size: 3em;
+}
+
+p {
+	margin: auto;
+	padding: 10px;
+
+	width: 75%;
+
+	background: #FFFFFF;
+	color: #508CFF;
+
+	border-radius: 10px;
+
+	font-size: 1.2em;
+}
+
+.center {
+	display: block;
+
+	margin: auto;
+	width: 100%;
+
+	background: #FFFFFF;
+	color: #508CFF;
+
+	text-align: center;
+}
