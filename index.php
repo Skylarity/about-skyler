@@ -7,7 +7,7 @@
 	</head>
 
 	<body>
-		<img src="images/robot-white.png" alt="Skylarity">
+		<img src="images/robot.png" alt="Skylarity">
 		<h1>
 			Hi, I'm Skyler!
 		</h1>
